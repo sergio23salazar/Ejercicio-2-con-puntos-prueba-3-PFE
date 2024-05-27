@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100%;
+    margin: 0;
+    background: #d9e0e9;
+  }
+input {
+    margin: auto;
+    margin-bottom: 15px;
+    background-color: azure;
+}
+
+
+div {
+    display: inline;
+}
+
+p {
+    display: inline;
+    padding: 1px 70px;
+    border: rgb(17, 17, 107) 1px solid;
+    border-radius: 3px;
+}
